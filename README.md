@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Kamleshjadhav98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Kamlesh Jadhav  
 
-<!---
-Kamleshjadhav98/Kamleshjadhav98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning **DevOps**  
+👀 Interested in **Web Development & Open Source**  
+💞️ Looking to collaborate on **exciting projects**  
+📫 Reach me at: your-kamaleshjadhav98@gmail.com  
+⚡ Fun fact: *Debugging is my superpower!*  
+
